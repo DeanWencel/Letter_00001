@@ -82,11 +82,12 @@ body {
 	scrollbar-width: none;
 }
  
-.message .sincere{
-	text-align: left;
-	font-family: "Cinzel, serif";
-	font-size: 14px;
-	line-height: 1.2em;
+.message .sincere {
+  text-align: left;
+  font-family: "Cinzel", serif;
+  font-size: 14px;
+  line-height: 1.2em;
+  margin-top: 20px; /* Move it upward by reducing space above */
 }
 
 .message .sincere p{
